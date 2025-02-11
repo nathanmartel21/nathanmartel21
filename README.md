@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate individual in virtualization and containerization technologies, as well as in cybersecurity, particularly through CTF challenges from France !</h3>
+<h3 align="center">A passionate individual in virtualization and containerization technologies, as well as in cybersecurity, particularly through CTF challenges !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanmartel21&label=Profile%20views&color=0e75b6&style=flat" alt="nathanmartel21" /> </p>
 
