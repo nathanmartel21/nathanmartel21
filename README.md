@@ -22,7 +22,7 @@ Made by Nathan MARTEL, last update : 11/02/2025
 </p>
 
 ## 📫 How to reach me  
-📩 **nathan.martel@etu.mines-ales.fr**
+📩 **nathan.martel@mines-ales.org**
 
 ## 🔗 Connect with me  
 <p align="left">
