@@ -12,7 +12,7 @@ Made by Nathan MARTEL, last update : 11/02/2025
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nathanmartel21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
+ 
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nathanmartel21&theme=transparent&no-frame=true&column=1&title=Commit" alt="Commit Trophy" style="margin-right: 25px; display: inline-block;"/>
