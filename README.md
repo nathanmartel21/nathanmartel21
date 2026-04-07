@@ -16,7 +16,7 @@ Made by Nathan MARTEL, last update : 07/04/2026
 
 ---
 
-## Tech Stack
+## Tech stack
 
 <div align="center">
 
@@ -31,25 +31,26 @@ Made by Nathan MARTEL, last update : 07/04/2026
 <div align="center">
 
 *Passionate about cybersecurity, CTF challenge boxes, and automation. I develop CTF boxes and explore containerization security aspects.*
+
 *Visit my blog at [https://nathanmartel21.github.io/](https://nathanmartel21.github.io/) and my personal website*
 
 </div>
 
 ---
 
-## GitHub Stats
+## GitHub stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nathanmartel21&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=nathanmartel21&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="49%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanmartel21&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmartel21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmartel21&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="49%">
 
 </div>
 
 ---
 
-## Contribution Graph
+## Contribution graph
 
 <div align="center">
 
@@ -59,7 +60,7 @@ Made by Nathan MARTEL, last update : 07/04/2026
 
 ---
 
-## Contribution Snake
+## Contribution snake
 
 <div align="center">
 
@@ -69,7 +70,7 @@ Made by Nathan MARTEL, last update : 07/04/2026
 
 ---
 
-## Connect With Me
+## Connect with me
 
 <div align="center">
 
@@ -84,7 +85,7 @@ Made by Nathan MARTEL, last update : 07/04/2026
 
 <div align="center">
 
-### Random Dev Quote
+### Random dev quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
