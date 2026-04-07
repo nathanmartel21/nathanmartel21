@@ -6,7 +6,7 @@ Made by Nathan MARTEL, last update : 07/04/2026
 
 # Hi there, I'm Nathan MARTEL 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=System+Engineer+Automation+and+Middleware+at+Groupama+G2S)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=System+Engineer+Automation+and+Middleware)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/nathanmartel21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/nathanmartel21)
 [![GitHub User's stars](https://img.shields.io/github/stars/nathanmartel21?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/nathanmartel21)
