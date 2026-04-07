@@ -26,8 +26,6 @@ Made by Nathan MARTEL, last update : 07/04/2026
 ![Automation](https://img.shields.io/badge/Automation-2196F3?style=for-the-badge&logo=ansible&logoColor=white)
 ![Middleware](https://img.shields.io/badge/Middleware-9C27B0?style=for-the-badge&logo=apache&logoColor=white)
 
-*System Engineer specializing in automation, middleware integration, and secure infrastructures*
-
 </div>
 
 ---
@@ -74,16 +72,6 @@ Made by Nathan MARTEL, last update : 07/04/2026
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathan.martel@mines-ales.org)
 
 </div>
-
----
-
-## Current Focus
-
-```text
-Day job          System Engineer Automation and Middleware at Groupama G2S
-Side projects    Developing my own IaC tool (rconf); Virtualization & Containerization Solutions
-Ask me about     Cybersecurity, CTF Challenges, System Automation
-```
 
 ---
 
