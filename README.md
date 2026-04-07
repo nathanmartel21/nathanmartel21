@@ -42,9 +42,9 @@ Made by Nathan MARTEL, last update : 07/04/2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nathanmartel21&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanmartel21&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmartel21&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="49%">
+[![GitHub followers](https://img.shields.io/github/followers/nathanmartel21?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/nathanmartel21)
+[![GitHub User's stars](https://img.shields.io/github/stars/nathanmartel21?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/nathanmartel21)
+[![Profile Views](https://komarev.com/ghpvc/?username=nathanmartel21&style=for-the-badge&color=blueviolet)](https://github.com/nathanmartel21)
 
 </div>
 
