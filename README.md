@@ -30,9 +30,7 @@ Made by Nathan MARTEL, last update : 07/04/2026
 
 <div align="center">
 
-*Passionate about cybersecurity, CTF challenge boxes, and automation. I develop CTF boxes and explore containerization security aspects.*
-
-*Visit my blog at [https://nathanmartel21.github.io/](https://nathanmartel21.github.io/) and my personal website*
+*Passionate about cybersecurity, CTF challenge boxes, and automation. I develop CTF boxes and explore containerization security aspects. Visit my blog at [https://nathanmartel21.github.io/](https://nathanmartel21.github.io/) and my personal website*
 
 </div>
 
